@@ -49,7 +49,8 @@ Once you find what you want, select your assets to export and `Right Click` > `E
 |"They're back. Two doors" poster|nc2-tsp2-poster-01-twodoors-framed|325||
 |"427" poster|nc2-tsp2-poster-10-427-framed|428|The fact that the 427 poster's Path ID is 428 and not 427 hurts me.|
 |"Figurine Finders Comittee" poster|poster_clues_meeting|922||
-|Two stanlers poster|nc2-tsp2-poster-09-twostanleys-framed|520||
+|Two Stanleys poster|nc2-tsp2-poster-09-twostanleys-framed|520||
+|Brain with ride side in red|nc2-tsp2-poster-06-brain-framed|524|There is an E on this poster. I am unsure as to why. Maybe we will never know.|
 
 # Audio
 | Human-readable name | Name | Path ID | Notes |
