@@ -12,7 +12,7 @@ No assets from the game will be shared here, you have to buy the game on Steam t
 ## Setting Everything Up
 First, be sure you have a Steam version of The Stanley Parable: Ultra Deluxe installed.
 
-You can download many tools, but I recommend [AssetStudio](https://github.com/Perfare/AssetStudio) for a free and simple way to get started.
+You can download many tools, but I recommend [AssetStudio](https://github.com/Perfare/AssetStudio/releases) for a free and simple way to get started.
 
 If you use Linux, you can still follow along by doing [these steps](#linux) first.
 
@@ -36,4 +36,4 @@ Once you find what you want, select your assets to export and `Right Click` > `E
 |Collectible Background (when you find a Figley)|figley_background_pattern|148|This is a tiling/repeatable texture!|
 
 ## Linux
-[AssetStudio](https://github.com/Perfare/AssetStudio) is not available on Linux, but if you use [Wine](https://winehq.org) (be sure to use a version after `wine-5.17`, I recommend using the latest stable version), you should be able to get it running and follow the same steps in [Setting Everything Up](#setting-everything-up).
+[AssetStudio](https://github.com/Perfare/AssetStudio/releases) is not available on Linux, but if you use [Wine](https://winehq.org) (be sure to use a version after `wine-5.17`, I recommend using the latest stable version), you should be able to get it running and follow the same steps in [Setting Everything Up](#setting-everything-up).
