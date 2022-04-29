@@ -5,7 +5,9 @@ No assets from the game will be shared here, you have to buy the game on Steam t
 
 # Table of Contents
 - [Setting Everything Up](#setting-everything-up)
-- [Models / Meshes](#models-meshes)
+- [Models / Meshes](#models--meshes)
+- [Images / Textures](#images--textures)
+- [Linux](#linux)
 
 ## Setting Everything Up
 First, be sure you have a Steam version of The Stanley Parable: Ultra Deluxe installed.
