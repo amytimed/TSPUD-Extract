@@ -5,6 +5,11 @@ No assets from the game will be shared here, you have to buy the game on Steam t
 
 ## Models / Meshes
 
-| Human-readable name | Mesh name | Path ID | Notes |
-|---------------------|-----------|---------|-------|
-|Figley / Stanlurine / Mini-Stan | default | 234 | There is also another Figley model, but lower res |
+| Human-readable name | Name | Path ID | Notes |
+|---|---|---|---|
+|Figley / Stanlurine / Mini-Stan / Collectible | default | 234 | There is also another Figley model, but lower res |
+
+## Images / Textures
+| Human-readable name | Name | Path ID | Notes |
+|---|---|---|---|
+|Collectible Background (when you find a Figley)|figley_background_pattern|148|This is a tiling/repeatable texture!|
