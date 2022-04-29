@@ -47,6 +47,7 @@ Once you find what you want, select your assets to export and `Right Click` > `E
 |---|---|---|---|
 |"The end is never the end...again" poster|nc2-tsp2-poster-08-again-framed|484||
 |"They're back. Two doors" poster|nc2-tsp2-poster-01-twodoors-framed|325||
+|"427" poster|nc2-tsp2-poster-10-427-framed||
 
 # Audio
 | Human-readable name | Name | Path ID | Notes |
