@@ -7,4 +7,4 @@ No assets from the game will be shared here, you have to buy the game on Steam t
 
 | Human-readable name | Mesh name | Path ID | Notes |
 |---------------------|-----------|---------|-------|
-|haha
+|Figley / Stanlurine / Mini-Stan | default | 234 | There is also another Figley model, but lower res |
