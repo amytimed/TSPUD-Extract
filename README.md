@@ -12,7 +12,7 @@ No assets from the game will be shared here, you have to buy the game on Steam t
 - [Audio](#audio)
 - [Linux](#linux)
 
-### Setting Everything Up
+# Setting Everything Up
 First, be sure you have a Steam version of The Stanley Parable: Ultra Deluxe installed.
 
 You can download many tools, but I recommend [AssetStudio](https://github.com/Perfare/AssetStudio/releases) for a free and simple way to get started.
@@ -27,13 +27,13 @@ In the `Filter Type` dropdown you can choose which types of assets you want to s
 
 Once you find what you want, select your assets to export and `Right Click` > `Export selected assets`, then pick a spot to export them and enjoy your newly exported assets!
 
-### Models / Meshes
+# Models / Meshes
 
 | Human-readable name | Name | Path ID | Notes |
 |---|---|---|---|
 |Figley / Stanlurine / Mini-Stan / Collectible | default | 234 | There is also another Figley model, but lower res |
 
-### Images / Textures
+# Images / Textures
 
 | Human-readable name | Name | Path ID | Notes |
 |---|---|---|---|
@@ -42,10 +42,10 @@ Once you find what you want, select your assets to export and `Right Click` > `E
 |Credits QR code for the website|credits_qr_website|99||
 |Credits QR code for the Discord server|credits_qr_discord|107||
 
-### Audio
+# Audio
 | Human-readable name | Name | Path ID | Notes |
 |---|---|---|---|
 |Music in the Epilogue|epilogue_mzp3|541||
 
-### Linux
+# Linux
 [AssetStudio](https://github.com/Perfare/AssetStudio/releases) is not available on Linux, but if you use [Wine](https://winehq.org) (be sure to use a version after `wine-5.17`, I recommend using the latest stable version), you should be able to get it running and follow the same steps in [Setting Everything Up](#setting-everything-up).
