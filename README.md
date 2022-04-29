@@ -5,7 +5,7 @@ No assets from the game will be shared here, you have to buy the game on Steam t
 
 **⚠️ Spoilers for the game ahead ⚠️**
 
-# Table of Contents
+## Table of Contents
 - [Setting Everything Up](#setting-everything-up)
 - [Models / Meshes](#models--meshes)
 - [Images / Textures](#images--textures)
