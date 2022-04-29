@@ -3,6 +3,14 @@ This repository is a community-ran guide to help you extract assets from The Sta
 
 No assets from the game will be shared here, you have to buy the game on Steam to follow these instructions.
 
+# Table of Contents
+- [Setting Everything Up](#setting-everything-up)
+
+## Setting Everything Up
+You can download many tools, but I recommend [AssetStudio](https://github.com/Perfare/AssetStudio) for a free and simple way to get started.
+
+
+
 ## Models / Meshes
 
 | Human-readable name | Name | Path ID | Notes |
