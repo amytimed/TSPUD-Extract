@@ -3,9 +3,7 @@ This repository is a community-ran guide to help you extract assets from The Sta
 
 No assets from the game will be shared here, you have to buy the game on Steam to follow these instructions.
 
-**!!! Spoilers for the game ahead !!!**
-**!!! Spoilers for the game ahead !!!**
-**!!! Spoilers for the game ahead !!!**
+**⚠️ Spoilers for the game ahead ⚠️**
 
 # Table of Contents
 - [Setting Everything Up](#setting-everything-up)
