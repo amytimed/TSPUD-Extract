@@ -34,6 +34,7 @@ Once you find what you want, select your assets to export and `Right Click` > `E
 | Human-readable name | Name | Path ID | Notes |
 |---|---|---|---|
 |Collectible Background (when you find a Figley)|figley_background_pattern|148|This is a tiling/repeatable texture!|
+|"The end is never the end...again" poster|nc2-tsp2-poster-08-again-framed|484||
 
 ## Linux
 [AssetStudio](https://github.com/Perfare/AssetStudio/releases) is not available on Linux, but if you use [Wine](https://winehq.org) (be sure to use a version after `wine-5.17`, I recommend using the latest stable version), you should be able to get it running and follow the same steps in [Setting Everything Up](#setting-everything-up).
