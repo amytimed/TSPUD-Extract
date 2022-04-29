@@ -3,10 +3,15 @@ This repository is a community-ran guide to help you extract assets from The Sta
 
 No assets from the game will be shared here, you have to buy the game on Steam to follow these instructions.
 
+**!!! Spoilers for the game ahead !!!**
+**!!! Spoilers for the game ahead !!!**
+**!!! Spoilers for the game ahead !!!**
+
 # Table of Contents
 - [Setting Everything Up](#setting-everything-up)
 - [Models / Meshes](#models--meshes)
 - [Images / Textures](#images--textures)
+- [Audio](#audio)
 - [Linux](#linux)
 
 ## Setting Everything Up
@@ -31,12 +36,18 @@ Once you find what you want, select your assets to export and `Right Click` > `E
 |Figley / Stanlurine / Mini-Stan / Collectible | default | 234 | There is also another Figley model, but lower res |
 
 ## Images / Textures
+
 | Human-readable name | Name | Path ID | Notes |
 |---|---|---|---|
 |Collectible Background (when you find a Figley)|figley_background_pattern|148|This is a tiling/repeatable texture!|
 |"The end is never the end...again" poster|nc2-tsp2-poster-08-again-framed|484||
 |Credits QR code for the website|credits_qr_website|99||
 |Credits QR code for the Discord server|credits_qr_discord|107||
+
+## Audio
+| Human-readable name | Name | Path ID | Notes |
+|---|---|---|---|
+|Music in the Epilogue|epilogue_mzp3|541||
 
 ## Linux
 [AssetStudio](https://github.com/Perfare/AssetStudio/releases) is not available on Linux, but if you use [Wine](https://winehq.org) (be sure to use a version after `wine-5.17`, I recommend using the latest stable version), you should be able to get it running and follow the same steps in [Setting Everything Up](#setting-everything-up).
