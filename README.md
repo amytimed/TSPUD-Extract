@@ -38,9 +38,15 @@ Once you find what you want, select your assets to export and `Right Click` > `E
 | Human-readable name | Name | Path ID | Notes |
 |---|---|---|---|
 |Collectible Background (when you find a Figley)|figley_background_pattern|148|This is a tiling/repeatable texture!|
-|"The end is never the end...again" poster|nc2-tsp2-poster-08-again-framed|484||
 |Credits QR code for the website|credits_qr_website|99||
 |Credits QR code for the Discord server|credits_qr_discord|107||
+
+### Posters
+
+| Human-readable name | Name | Path ID | Notes |
+|---|---|---|---|
+|"The end is never the end...again" poster|nc2-tsp2-poster-08-again-framed|484||
+|"They're back. Two doors" poster|nc2-tsp2-poster-01-twodoors-framed|325||
 
 # Audio
 | Human-readable name | Name | Path ID | Notes |
