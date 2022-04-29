@@ -9,6 +9,7 @@ No assets from the game will be shared here, you have to buy the game on Steam t
 - [Setting Everything Up](#setting-everything-up)
 - [Models / Meshes](#models--meshes)
 - [Images / Textures](#images--textures)
+  - [Posters](#posters)
 - [Audio](#audio)
 - [Linux](#linux)
 
