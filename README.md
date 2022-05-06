@@ -1,5 +1,5 @@
 # TSPUD-Extract
-This repository is a community-ran guide to help you extract assets from The Stanley Parable: Ultra Deluxe.
+This repository is a community-ran guide to help you extract assets from The Stanley Parable: Ultra Deluxe. Anyone is welcome to submit a PR and help make this more complete!
 
 No assets from the game will be shared here, you have to buy the game on Steam to follow these instructions.
 
