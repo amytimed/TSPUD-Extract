@@ -6,9 +6,9 @@ No assets from the game will be shared here, you have to buy the game on Steam t
 **⚠️ Spoilers for the game ahead ⚠️**
 
 ## Table of Contents
-- [Setting Everything Up](#setting-everything-up)
-- [Models / Meshes](#models--meshes)
-- [Images / Textures](#images--textures)
+- [Setting Everything Up](#common-setting-everything-up)
+- [Common Models / Meshes](#common-models--meshes)
+- [Common Images / Textures](#common-images--textures)
   - [Posters](#posters)
 - [Audio](#audio)
 - [Linux](#linux)
@@ -28,13 +28,13 @@ In the `Filter Type` dropdown you can choose which types of assets you want to s
 
 Once you find what you want, select your assets to export and `Right Click` > `Export selected assets`, then pick a spot to export them and enjoy your newly exported assets!
 
-# Models / Meshes
+# Common Models / Meshes
 
 | Human-readable name | Name | Path ID | Notes |
 |---|---|---|---|
 |Figley / Stanlurine / Mini-Stan / Collectible | default | 234 | There is also another Figley model, but lower res |
 
-# Images / Textures
+# Common Images / Textures
 
 | Human-readable name | Name | Path ID | Notes |
 |---|---|---|---|
@@ -53,7 +53,7 @@ Once you find what you want, select your assets to export and `Right Click` > `E
 |Two Stanleys poster|nc2-tsp2-poster-09-twostanleys-framed|520||
 |Brain with ride side in red|nc2-tsp2-poster-06-brain-framed|524|There is an E on this poster. I am unsure as to why. Maybe we will never know.|
 
-# Audio
+# Common Audio
 | Human-readable name | Name | Path ID | Notes |
 |---|---|---|---|
 |Music in the Epilogue|epilogue_mzp3|541||
